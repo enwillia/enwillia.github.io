@@ -1,0 +1,10 @@
+body{
+    background-color: plum;
+    color: black;
+    font-family: Georgia, serif;
+    text-align: center;
+}
+
+#result{
+    background-color: turquoise;
+}
