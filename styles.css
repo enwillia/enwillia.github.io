@@ -1,19 +1,12 @@
 :root{
   font-weight: bold;
+  font-family: sans-serif;
 }
 
 .links{
-    /**
-      keep:  it centers my site links
-     links have gaps 
-     */
-   
-     display: flex;
-     flex-wrap: wrap;
-     justify-content: center;
-     row-gap: 10px;
-     column-gap: 2em;
-    
+  color: white;
+  padding: .5em;
+  font-size: 24px;        
 }
 
 #welcome-section{
@@ -27,14 +20,15 @@
   width: 75px;
 }
 
-  body{
+
+body{
   color: white;  
   background-color: black;
-  }
+}
 
-  a{
-    color: white;
-  }
+a{
+   color: white;
+}
   
 
 .project{
@@ -45,7 +39,7 @@
 }
 
 
-/* keep look ma this will always be at the top of the viewport*/
+
 #navbar{   
  position: fixed; 
  top: 0;
@@ -62,4 +56,13 @@ li{
   background-color: green;
   font-weight: bold;
   
+}
+
+button{
+  position: relative;
+  left: 30px;
+  background-color: black;
+  font-weight: bold;
+  border: 2px solid white;
+  border-radius: 2em;
 }
