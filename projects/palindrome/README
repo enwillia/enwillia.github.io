@@ -1,2 +1,0 @@
-This is a project from the new Free Code Camp JavaSscript Algorithms and Data Structures certification. This is one of the required projects to complete to earn this certiication. 
-Takes a word or phrase from user and checks if it is a palindrome. Removes spaces and punctuation from the user input. Prints whether or not the input is a palindrome.
