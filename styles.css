@@ -4,7 +4,7 @@
 }
 
 .links{
-  color: white;
+  color: black;
   padding: .5em;
   font-size: 24px;        
 }
@@ -23,11 +23,11 @@
 
 body{
   color: black; 
-  background-color: white;
+  background-color: steelblue;
 }
 
 a{
-   color: purple;
+   color: black;
 }
   
 
